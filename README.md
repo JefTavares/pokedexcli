@@ -1,1 +1,3 @@
 # pokedexcli
+
+go build && ./pokedexcli
